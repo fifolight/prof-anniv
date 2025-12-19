@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Prof-anniv",
+  title: "Prof-Anniv",
   description: "Prochains anniversaires des professeurs",
 };
 
